@@ -43,8 +43,8 @@ export default function Home() {
                 singen kann
               </p>
               <p>
-                <strong>Meine Lieblingsessen:</strong> Alles, was man beim
-                Singen schlecht kochen kann
+                <strong>Mein Lieblingsessen:</strong> Alles, was man beim Singen
+                schlecht kochen kann
               </p>
             </article>
           </em>
@@ -56,16 +56,16 @@ export default function Home() {
             <article>
               <h2>Mein Mann, Viktor </h2>
               <p>
-                <strong>Mein Beruf: </strong> Wächter der Träume
+                <strong>Sein Beruf: </strong> Wächter der Träume
               </p>
               <p>
-                <strong>Meine Hobbys: </strong> Sodatest und Wurstverkostung
+                <strong>Seine Hobbys: </strong> Sodatest und Wurstverkostung
               </p>
               <p>
-                <strong>Meine Lieblingsmusik: </strong> Jede Musik in MP3
+                <strong>Seine Lieblingsmusik: </strong> Jede Musik in MP3
               </p>
               <p>
-                <strong>Meine Lieblingsessen:</strong> Das, den meine Frau kocht
+                <strong>Sein Lieblingsessen:</strong> Das, den meine Frau kocht
                 (bearbeitet)
               </p>
             </article>
@@ -82,16 +82,16 @@ export default function Home() {
                 Frag, wie es mir geht
               </p>
               <p>
-                <strong>Meine Hobbys: </strong>
+                <strong>Ihre Hobbys: </strong>
                 Frag, wie es mir geht (Es ist gut, wenn Ihre Arbeit Ihr Hobby
                 ist!)
               </p>
               <p>
-                <strong>Meine Lieblingsmusik: </strong>
+                <strong>Ihre Lieblingsmusik: </strong>
                 Geräusche eines Familienessens
               </p>
               <p>
-                <strong>Meine Lieblingsessen: </strong>
+                <strong>Ihr Lieblingsessen: </strong>
                 Hering unter einem Pelzmantel
               </p>
             </article>
@@ -104,17 +104,17 @@ export default function Home() {
             <article>
               <h2>Viktors Mutter, Vera </h2>
               <p>
-                <strong>Mein Beruf: </strong>
+                <strong>Ihr Beruf: </strong>
                 suchen Sie nach Rechtschreibfehlern in Victors Texten
               </p>
               <p>
-                <strong>Meine Hobbys: </strong>Mutter sein
+                <strong>Ihre Hobbys: </strong>Mutter sein
               </p>
               <p>
-                <strong>Meine Kinder: </strong> 4 Stücken
+                <strong>Ihre Kinder: </strong> 4 Stücken
               </p>
               <p>
-                <strong>Meine Lieblingfarbe: </strong>
+                <strong>Ihre Lieblingfarbe: </strong>
                 die Farbe der Kinderüberraschung
               </p>
             </article>
@@ -127,19 +127,19 @@ export default function Home() {
             <article>
               <h2>Mein Bruder, Nikita </h2>
               <p>
-                <strong>Mein Beruf: </strong>
+                <strong>Sein Beruf: </strong>
                 Lama streichlen
               </p>
               <p>
-                <strong>Meine Hobbys: </strong>
+                <strong>Seine Hobbys: </strong>
                 zum hundertsten Mal einen Computer reparieren
               </p>
               <p>
-                <strong>Meine Lieblingsmusik: </strong>
+                <strong>Seine Lieblingsmusik: </strong>
                 die Worte &aposIch stimme zu&apos von seiner Freundin
               </p>
               <p>
-                <strong>Meine Lieblingfarbe: </strong>
+                <strong>Seine Lieblingfarbe: </strong>
                 die Farbe des friedlichen Himmels darüber
               </p>
             </article>
@@ -151,19 +151,19 @@ export default function Home() {
             <article>
               <h2>Viktors Bruder, Igor </h2>
               <p>
-                <strong>Mein Beruf: </strong>
+                <strong>Sein Beruf: </strong>
                 Sänger im Karaoke
               </p>
               <p>
-                <strong>Meine Hobbys: </strong>
+                <strong>Seine Hobbys: </strong>
                 Memes sammlen
               </p>
               <p>
-                <strong>Meine Lieblingsfilm: </strong>
+                <strong>Sein Lieblingsfilm: </strong>
                 Fantasie, besonders Fernsehnachrichten
               </p>
               <p>
-                <strong>Meine Lieblingsessen: </strong>
+                <strong>Sein Lieblingsessen: </strong>
                 Spaghetti mindestens 1 m lang
               </p>
             </article>
@@ -175,19 +175,19 @@ export default function Home() {
             <article>
               <h2>Unsere Katze, Grissa </h2>
               <p>
-                <strong>Mein Beruf: </strong>
+                <strong>Ihr Beruf: </strong>
                 nachts springen
               </p>
               <p>
-                <strong>Meine Hobbys: </strong>
+                <strong>Ihre Hobbys: </strong>
                 Wunderschön sein
               </p>
               <p>
-                <strong>Meine Lieblingsmusik: </strong>
+                <strong>Ihre Lieblingsmusik: </strong>
                 Ihr Miau
               </p>
               <p>
-                <strong>Meine Lieblingsessen: </strong>
+                <strong>Ihr Lieblingsessen: </strong>
                 Wattestäbchen und Hintern Gurken
               </p>
             </article>
