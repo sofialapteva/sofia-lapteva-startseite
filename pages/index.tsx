@@ -78,20 +78,20 @@ export default function Home() {
             <article>
               <h2>Meine Mutter, Irina </h2>
               <p>
-                <strong>Mein Beruf: </strong>
+                <strong>ihr Beruf: </strong>
                 Frag, wie es mir geht
               </p>
               <p>
-                <strong>Ihre Hobbys: </strong>
-                Frag, wie es mir geht (Es ist gut, wenn Ihre Arbeit Ihr Hobby
+                <strong>ihre Hobbys: </strong>
+                Frag, wie es mir geht (Es ist gut, wenn ihre Arbeit ihr Hobby
                 ist!)
               </p>
               <p>
-                <strong>Ihre Lieblingsmusik: </strong>
+                <strong>ihre Lieblingsmusik: </strong>
                 Geräusche eines Familienessens
               </p>
               <p>
-                <strong>Ihr Lieblingsessen: </strong>
+                <strong>ihr Lieblingsessen: </strong>
                 Hering unter einem Pelzmantel
               </p>
             </article>
@@ -104,17 +104,17 @@ export default function Home() {
             <article>
               <h2>Viktors Mutter, Vera </h2>
               <p>
-                <strong>Ihr Beruf: </strong>
+                <strong>ihr Beruf: </strong>
                 suchen Sie nach Rechtschreibfehlern in Victors Texten
               </p>
               <p>
-                <strong>Ihre Hobbys: </strong>Mutter sein
+                <strong>ihre Hobbys: </strong>Mutter sein
               </p>
               <p>
-                <strong>Ihre Kinder: </strong> 4 Stücken
+                <strong>ihre Kinder: </strong> 4 Stücken
               </p>
               <p>
-                <strong>Ihre Lieblingfarbe: </strong>
+                <strong>ihre Lieblingfarbe: </strong>
                 die Farbe der Kinderüberraschung
               </p>
             </article>
@@ -175,19 +175,19 @@ export default function Home() {
             <article>
               <h2>Unsere Katze, Grissa </h2>
               <p>
-                <strong>Ihr Beruf: </strong>
+                <strong>ihr Beruf: </strong>
                 nachts springen
               </p>
               <p>
-                <strong>Ihre Hobbys: </strong>
+                <strong>ihre Hobbys: </strong>
                 Wunderschön sein
               </p>
               <p>
-                <strong>Ihre Lieblingsmusik: </strong>
-                Ihr Miau
+                <strong>ihre Lieblingsmusik: </strong>
+                ihr Miau
               </p>
               <p>
-                <strong>Ihr Lieblingsessen: </strong>
+                <strong>ihr Lieblingsessen: </strong>
                 Wattestäbchen und Hintern Gurken
               </p>
             </article>
