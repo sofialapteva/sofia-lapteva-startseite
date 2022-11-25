@@ -136,7 +136,7 @@ export default function Home() {
               </p>
               <p>
                 <strong>Seine Lieblingsmusik: </strong>
-                die Worte &aposIch stimme zu&apos von seiner Freundin
+                die Worte &apos Ich stimme zu &apos von seiner Freundin
               </p>
               <p>
                 <strong>Seine Lieblingfarbe: </strong>
