@@ -173,7 +173,7 @@ export default function Home() {
               <Image src={grisa} alt="" width={150} />
             </div>
             <article>
-              <h2> {"   "}Unsere Katze, Grissa </h2>
+              <h2> Katze, Grissa </h2>
               <p>
                 <strong>ihr Beruf: </strong>
                 nachts springen
